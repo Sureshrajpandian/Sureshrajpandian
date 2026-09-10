@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sureshraj Pandian
-### Enterprise Apple Systems Architect & Jamf Certified Expert
+### Systems Engineer & Jamf Certified Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sureshraj1995)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sureshrajpandian)
@@ -11,8 +11,8 @@
 ---
 
 ### 🚀 Overview
--  **Apple Ecosystem:** ACMT, ACIT, and Apple Certified IT Professional with hands-on enterprise deployment experience.
-- 🛡️ **Jamf Architecture:** Full lifecycle expertise across Jamf Pro, Jamf School, Jamf Connect, and Jamf Protect.
+-  **Apple Ecosystem:** Apple Certified IT Professional, ACMT and ACIT, and A with hands-on enterprise deployment experience.
+- 🛡️ **Jamf Architecture:** Full lifecycle expertise across Jamf Pro, Jamf School, Jamf Connect, Jamf Protect and Security Cloud.
 - ⚙️ **Core Disciplines:** Automated zero-touch fleet provisioning, macOS/iOS hardening, and shell-driven workflows.
 
 ---
