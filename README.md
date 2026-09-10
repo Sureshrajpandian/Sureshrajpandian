@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Overview
--  **Apple Ecosystem:** Apple Certified IT Professional, ACMT and ACIT, and A with hands-on enterprise deployment experience.
+-  **Apple Ecosystem:** Apple Certified IT Professional (ACMT & ACIT) specializing in large-scale enterprise deployment and fleet management.
 - 🛡️ **Jamf Architecture:** Full lifecycle expertise across Jamf Pro, Jamf School, Jamf Connect, Jamf Protect and Security Cloud.
 - ⚙️ **Core Disciplines:** Automated zero-touch fleet provisioning, macOS/iOS hardening, and shell-driven workflows.
 
